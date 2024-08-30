@@ -1,5 +1,5 @@
 # 💫 About Me:
-Future System's Engineer, currently at UTN Programming associate Degree.<br>Learning Python, Java, C++, Javascript.<br>Fun fact: Otaku, como le gustan a la profe de Arquitectura :v
+Future System's Engineer, currently at UTN Programming associate Degree.<br>Learning Python, Java, C++, Javascript.<br>
 
 
 ## 🌐 Socials:
