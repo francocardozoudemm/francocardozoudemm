@@ -1,5 +1,5 @@
 # 💫 About Me:
-Future System's Engineer, currently at UTN Programming associate Degree.<br>Learning Python, Java, C++, Javascript.<br>
+Future System's Engineer, currently at UTN Programming associate Degree.<br>Learning Python, Java, C, C++, Javascript.<br>
 
 
 ## 🌐 Socials:
